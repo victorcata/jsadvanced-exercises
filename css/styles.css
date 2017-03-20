@@ -1,0 +1,32 @@
+body {
+    padding-top: 200px;
+    font-family: san-serif;
+}
+
+.login-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid #AAA;
+    border-radius: 20px;
+    background-color: #F8F8F8;
+}
+
+label {
+    display: block;
+    padding-bottom: 2px;
+}
+
+.form-line {
+    padding-bottom: 20px;
+}
+
+input {
+    height: 25px;
+    width: 200px;
+}
+
+button {
+    width: 200px;
+    padding: 5px 0;
+}
