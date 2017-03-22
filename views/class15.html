@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <link href="../css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1>Cajero automatico</h1>
+        </header>
+        <div class="container">
+            <div class="cajero">
+                <ul class="actions">
+                    <li>
+                        <button>Añadir cliente</button>
+                    </li>
+                    <li>
+                        <button>Ingresar dinero</button>
+                    </li>
+                    <li>
+                        <button>Sacar dinero</button>
+                    </li>
+                    <li>
+                        <button>Salir</button>
+                    </li>
+                </ul>
+                <div class="output">
+                    <p>Bienvenido <span id="user">Víctor</span></p>
+                    <ul class="historic"></ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="login">
+            <form>
+                <div class="form-row">
+                    <label for="username">Username</label>
+                    <input id="username" type="text" placeholder="username" />
+                </div>
+                <div class="form-row">
+                    <label for="password">Password</label>
+                    <input id="password" type="password" />
+                </div>
+                <button type="submit">entrar</button>
+            </form>
+        </div>
+        <script src="../js/class15.js"></script>
+    </body>
+</html>
