@@ -12,3 +12,4 @@
 - [Class 12 - LocalStorage](js/class12.js) --TODO: Mostrar avatar en Ej2
 - [Class 13 - BitCoin WebSockets](js/class13.js) --TODO
 - [Class 14 - FullContact API](js/class14.js) --TODO
+- [Class 15 - Cajero + Patterns](js/class15.js) --TODO
